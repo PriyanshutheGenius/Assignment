@@ -6,19 +6,19 @@ This repository contains two Python scripts that demonstrate basic programming c
 1. I takes two numbers as input from the user.
 2. The basic mathematical operations on these two
 numbers:
-o Addition
-o Subtraction
-o Multiplication
+iv.}  Addition
+ii.}  Subtraction
+iii.} Multiplication
 Note (Division: Cannot divide by zero!)
-o Division
+iv.}  Division
 
 
 
 Task 2: Create a Personalized Greeting
 Problem Statement: Write a Python program that:
-1. Takes a user's first name and last name as input.
-2. Concatenates the first name and last name into a full name.
-3. Prints a personalized greeting message using the full name.
+i.}   Takes a user's first name and last name as input.
+ii.}  Concatenates the first name and last name into a full name.
+iii.} Prints a personalized greeting message using the full name.
 
 
 How to Run

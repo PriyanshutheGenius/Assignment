@@ -3,31 +3,22 @@ Python Assignment Tasks
 
 This repository contains two Python scripts that demonstrate basic programming concepts: user input, arithmetic operations, string handling, and output.
 
-Task 1: Basic Mathematical Operations
-
-The program takes two numbers as input from the user.
-
-It performs the following operations on these numbers:
-
-Addition
-
-Subtraction
-
-Multiplication
-
-Division
-
-The results of all operations are displayed on the screen.
+1. I takes two numbers as input from the user.
+2. The basic mathematical operations on these two
+numbers:
+o Addition
+o Subtraction
+o Multiplication
+Note (Division: Cannot divide by zero!)
+o Division
 
 
-Task 2: Personalized Greeting
 
-The program takes a first name and last name as input from the user.
-
-It concatenates them into a full name.
-
-A personalized greeting message is displayed using the full name.
-
+Task 2: Create a Personalized Greeting
+Problem Statement: Write a Python program that:
+1. Takes a user's first name and last name as input.
+2. Concatenates the first name and last name into a full name.
+3. Prints a personalized greeting message using the full name.
 
 
 How to Run
